@@ -43,4 +43,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+repository: thisiswhai/thisiswhai.github.io
 show_downloads: false
